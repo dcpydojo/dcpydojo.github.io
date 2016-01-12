@@ -1,0 +1,100 @@
+
+* {
+  margin: 0;
+}
+
+html, body {
+  background-color: #ffffff;
+  color: #454545;
+  font-family: "Oxygen", sans-serif;
+}
+
+#header-bg {
+	background-color: #00007b;
+	height: 20em;
+	position: relative;
+}
+
+h1 {
+	color: #ff0000;
+	font-family: "Anonymous Pro", serif;
+	font-size: 5em;
+	padding-top: .6em;
+	text-align: center;
+}
+
+h3 {
+	color: #b4b4b4;
+	font-family: "Anonymous Pro", serif;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#icons {
+	margin-left: 85%;
+	margin-right: 1em;
+}
+
+#icons2 {
+	margin-right: 1em;
+}
+
+#main {
+	background-color: #ffffff;
+	position: absolute;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	top: 15em;
+	border-radius: 25px;
+}
+
+p {
+	width: 95%;
+	padding-bottom: 1em;
+	padding-left: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: #00007b;
+}
+
+#main h3 {
+	color: #ff1000;
+	text-align: left;
+	font-size: 2em;
+	padding-top: 1.75em;
+	padding-bottom: 1em;
+	padding-left: 30px;
+}
+
+#guido {
+	padding-top: 3em;
+	padding-bottom: 1em;
+	margin-left: 23%;
+	margin-right: 23%;
+	text-align: center;
+	width: 55%;
+}
+
+#linus {
+	padding-top: 3em;
+	padding-bottom: 1em;
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+}
+
+#xkcd {
+	padding-top: 3em;
+	padding-bottom: 1em;
+	margin-left: 30%;
+	margin-right: 30%;
+	width: 40%;
+}
+
+#xkcd p {
+	font-size: .5em;
+	margin-left: 23%
+}
